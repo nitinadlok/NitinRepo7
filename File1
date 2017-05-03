@@ -1,4 +1,3 @@
-node {
    stage('Preparation') { // for display purposes
    echo preparation
 }
@@ -8,4 +7,3 @@ node {
    stage('Results') {
       echo results
    }
-}
