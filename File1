@@ -1,13 +1,13 @@
    stage('Preparation') 
    { 
    // for display purposes
-   echo "preparation"
+   echo "this is preparation"
 }
    stage('Build') 
    {
-      echo "build"
+      echo "this is build"
    }
    stage('Results') 
    {
-      echo "results"
+      echo "this is results"
    }
