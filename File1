@@ -1,13 +1,1 @@
-   stage('Preparation') 
-   { 
-   // for display purposes
-   echo "this is preparation"
-}
-   stage('Build') 
-   {
-      echo "this is build"
-   }
-   stage('Results') 
-   {
-      echo "this is results"
-   }
+echo "this is file1 master"
