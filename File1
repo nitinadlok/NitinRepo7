@@ -1,9 +1,13 @@
-   stage('Preparation') { // for display purposes
-   echo preparation
+   stage('Preparation') 
+   { 
+   // for display purposes
+   echo "preparation"
 }
-   stage('Build') {
-      echo build
+   stage('Build') 
+   {
+      echo "build"
    }
-   stage('Results') {
-      echo results
+   stage('Results') 
+   {
+      echo "results"
    }
